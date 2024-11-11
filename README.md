@@ -1,2 +1,7 @@
-# Convenience-tools
-A repository for various aspects to facilitate my own use of Android phones (Termux), storing various python, bash
+# 切换语音
+
+[English](README_en.md) | [中文](README_zh.md)
+
+
+选择一个语言以继续。
+Select a language to continue.
