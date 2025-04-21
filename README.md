@@ -1,4 +1,4 @@
-# 切换语音
+# 切换语言
 
 [English](README_en.md) | [中文](README_zh.md)
 
